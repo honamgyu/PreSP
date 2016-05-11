@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void){
-	printf("Starting program");
+	printf("Starting program!");
 	return 0;
 }
